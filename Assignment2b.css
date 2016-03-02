@@ -1,0 +1,45 @@
+#rect1a{
+     fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0);
+    }
+	#rect1b{
+     fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0);
+    }
+	#rect1c{
+     fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0);
+    }
+	#rect1d{
+     fill:rgb(255,255,255);stroke-width:2;stroke:rgb(0,0,0);
+    }
+#rect2a{
+fill:rgb(255,255,0);stroke-width:2;stroke:rgb(0,0,0);
+    } 
+	#rect2b{
+fill:rgb(255,255,0);stroke-width:2;stroke:rgb(0,0,0);
+    } 
+
+#rectheading {
+font-family="Verdana";
+ font-size="11";
+ fill="black";
+}
+#textbox1 {
+font-family="Verdana";
+ font-size="6";
+ fill="black";
+}
+#textbox2 {
+font-family="Verdana";
+ font-size="6";
+ fill="black";
+}
+#textbox3 {
+font-family="Verdana";
+ font-size="6";
+ fill="black";
+}
+#underline {
+text-decoration: underline;
+font-family="Verdana";
+ font-size="8";
+ fill="black";
+}

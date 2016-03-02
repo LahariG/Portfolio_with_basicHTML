@@ -1,0 +1,164 @@
+body{background-color:lightgreen;}
+ul {
+    float: left;
+    width: 137%;
+background-color:black;
+   
+}
+first{
+	background-color:lightgreen;
+}
+#link1 {
+    float: left;
+    width: 14em;
+	color: yellow;
+    text-decoration: none;
+    text-align:center;
+    background-color:black;
+    font-size : 110%;
+    padding: 0.1em 0.1em 0.1em 0.1em;
+	height:50px;
+    
+}
+#link2 {
+    float: left;
+    width: 14em;
+	color: yellow;
+    text-decoration: none;
+    text-align:center;
+    background-color:black;
+    font-size : 110%;
+    padding: 0.1em 0.1em 0.1em 0.1em;
+	height:50px;
+    
+}
+#link3 {
+    float: left;
+    width: 14em;
+	color: yellow;
+    text-decoration: none;
+    text-align:center;
+    background-color:black;
+    font-size : 110%;
+    padding: 0.1em 0.1em 0.1em 0.1em;
+	height:50px;
+    
+}
+#link4 {
+    float: left;
+    width: 14em;
+	color: yellow;
+    text-decoration: none;
+    text-align:center;
+    background-color:black;
+    font-size : 110%;
+    padding: 0.1em 0.1em 0.1em 0.1em;
+	height:50px;
+    
+}
+#link5 {
+    float: left;
+    width: 14em;
+	color: yellow;
+    text-decoration: none;
+    text-align:center;
+    background-color:black;
+    font-size : 110%;
+    padding: 0.1em 0.1em 0.1em 0.1em;
+	height:50px;
+    
+}
+#center{
+	text-align:center;
+}
+#Aboutme a{
+	text-decoration:italic;
+}
+
+#link:hover {
+    background-color: blue;
+	text-decoration: underline;
+	font-size: 120%;
+}
+
+p b{
+	text-decoration: underline;
+}
+
+p i{
+	text-decoration: underline;
+}
+
+.inl{
+    display: inline;
+}
+
+title {
+font-family: verdana;
+font-size: 500%;
+}
+#header{
+	
+	height:30%;
+	  width:100%;
+	  background-color:lightgreen;
+	  font-size:95%;
+		  
+}
+header {
+    color: green;
+	text-align:center;
+    font-family: courier;
+    font-size: 300%;
+}
+p  {
+    color: black;
+    font-family: courier;
+    
+}
+
+
+
+img{
+	float:left;
+width:300px;
+height:250px;
+}
+
+#abc{
+		  background-color:lightgreen;
+		  height:100%;
+		  width:70%;
+		  float:left;
+		  
+		  font-family: sans-serif;
+		  padding:1%;
+		  
+	  }
+	  #content{
+padding:1%;
+}
+	
+
+	
+#Aboutme{
+	padding-left: 330px;
+	
+}
+
+sh {
+	padding-top: 50px;
+}
+
+.cxyz#xyz{
+ background-color: pink;
+    float:right;
+    height:100%;
+    width:27%;
+}
+.d1#div1 {
+	width:350px;
+	height:70px;
+	padding:10px;
+	border:1px solid #aaaaaa;
+	}
